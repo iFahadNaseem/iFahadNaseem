@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">A passionate MeAN dev from Pakistan</h3>
+<h3 align="center">Jam Stack Dev</h3>
 
 <p align="left"> <a href="https://twitter.com/naseem_fahad" target="blank"><img src="https://img.shields.io/twitter/follow/naseem_fahad?logo=twitter&style=for-the-badge" alt="naseem_fahad" /></a> </p>
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Angular, laravel , Flutter ,Strapi js**
+- 🌱 I’m currently learning **Angular, Flutter ,Strapi**
 
 - 👯 I’m looking to collaborate on [https://github.com/johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds)
 
