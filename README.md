@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Angular, Flutter ,Strapi**
+- 🌱 I’m currently learning **Angular , Strapi**
 
 - 👯 I’m looking to collaborate on [https://github.com/johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds)
 
