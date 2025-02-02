@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">Jam Stack Dev</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/naseem_fahad" target="blank"><img src="https://img.shields.io/twitter/follow/naseem_fahad?logo=twitter&style=for-the-badge" alt="naseem_fahad" /></a> </p>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on few real-time projects will be updating soon...
 
-- 🌱 I’m currently learning **Angular , Strapi**
+- 🌱 I’m currently learning **Data Analytics Tools**
 
-- 👯 I’m looking to collaborate on [https://github.com/johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds)
+- 🤝 I’m looking for help with **Data Modeling - AI Tools And Agents**
 
-- 🤝 I’m looking for help with **Angular**
-
-- 💬 Ask me about **Angular , Strapijs**
+- 💬 Ask me about **DATA Analysis and Analytics**
 
 - 📫 How to reach me **fahadi.naseem1998@gmail.com**
 
-- ⚡ Fun fact **Can't Master Everything!**
+- ⚡ Fun fact **AI Can't Master Everything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naseem_fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naseem_fahad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-fahad-naseem-5746781a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-fahad-naseem-5746781a8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mfahadnaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfahadnaseem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13476844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13476844" height="30" width="40" /></a>
 </p>
 
