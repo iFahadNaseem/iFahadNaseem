@@ -81,7 +81,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
