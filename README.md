@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">Data Analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mfahadnaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfahadnaseem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13476844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13476844" height="30" width="40" /></a>
-</p>
 
 - 🔭 I’m currently working on few real-time projects will be updating soon...
 
@@ -18,6 +13,14 @@
 - 📫 How to reach me **fahadi.naseem1998@gmail.com**
 
 - ⚡ Fun fact **AI Can't Master Everything!**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mfahadnaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfahadnaseem" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13476844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13476844" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
