@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **fahadi.naseem1998@gmail.com**
 
-- ⚡ Fun fact **AI Can't Master Everything!**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
